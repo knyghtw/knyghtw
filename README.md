@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Slavouz
-- 🌱 I’m currently learning **JavaScript & Python**
+- 🌱 I’m currently learning **Node.js & Python**
 - 📫 How to reach me tmbwpva@protonmail.com
+- ⚡ Fun fact: I like green tea & matcha
 
 <!---
 Slavouz/Slavouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
