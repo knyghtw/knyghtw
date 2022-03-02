@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slavouz
 - 🌱 I’m currently learning **Node.js & Python**
-- 📫 How to reach me tmbwpva@protonmail.com
+- 📫 How to reach me [Mail me:](tmbwpva@protonmail.com)
 - ⚡ Fun fact: I like green tea & matcha
 
 <!---
