@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slavouz
-- 🌱 I’m currently learning **Node.js & Python**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
 - ⚡ Fun fact: I like green tea & matcha
 
