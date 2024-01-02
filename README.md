@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Slavouz
-- 🌱 I’m currently learning **Kotlin and Python**
+- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
-- ⚡ Fun fact: I like green tea & matcha
+- ⚡ Fun fact: I like egg tofu
 
 <!---
 Slavouz/Slavouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
