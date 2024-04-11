@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slavouz
+- 👋 Hi, I’m @knyghtw
 - 🌱 I’m currently learning **Kotlin and Jetpack Compose**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
 - ⚡ Fun fact: I like egg tofu & smashed chicken
