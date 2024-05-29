@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knyghtw
-- 🌱 I’m currently learning **Kotlin and Jetpack Compose**
+- 🌱 I’m currently learning **NextJS and C#**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
 - ⚡ Fun fact: I like egg tofu & smashed chicken
 
