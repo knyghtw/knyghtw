@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knyghtw
-- 🌱 I’m currently learning **NextJS and C#**
+- 🌱 I’m currently learning **Svelte**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
 - ⚡ Fun fact: I like egg tofu & smashed chicken
 
