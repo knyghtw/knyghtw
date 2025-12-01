@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @knyghtw
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **the art of boredom**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
-- ⚡ Fun fact: I like egg tofu & smashed chicken
+- ⚡ Fun fact: I use Fedora btw
 
 <!---
 Slavouz/Slavouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
