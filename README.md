@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @knyghtw
 - 🌱 I’m currently learning **the art of boredom**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
-- ⚡ Fun fact: I use Fedora btw
+- ⚡ Fun fact: I use Arch btw
 
 <!---
 Slavouz/Slavouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
