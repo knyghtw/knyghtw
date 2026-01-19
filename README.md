@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knyghtw
-- 🌱 I’m currently learning **the art of boredom**
+- 🌱 I’m currently learning **ricing and stuff**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
 - ⚡ Fun fact: I use Arch btw
 
