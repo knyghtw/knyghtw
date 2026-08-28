@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knyghtw
-- 🌱 I’m currently learning **new thingsf**
+- 🌱 I’m currently learning **new things**
 - 📫 How to reach me: [E-mail](mailto:tmbwpva@protonmail.com)
 - ⚡ Fun fact: I use Fedora btw
 
